@@ -1,0 +1,2442 @@
+
+         +-------+
+         | y w g |      
+         | y g w |      
+         | w r y |      
+ +-------+-------+-------+
+ | r g o | g g r | g r r |
+ | y r y | r w b | r o y |
+ | w b r | w w o | y g g |
+ +-------+-------+-------+
+         | b o b |      
+         | o b o |      
+         | o b o |      
+         +-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+
+Move count: 0
+
+Move: x
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g r b | o b o | g o r |
+ | r y w | o b o | g y r |
+ +-------+-------+-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | y g w |      
+         | w r y |      
+         +-------+
+
+Move count: 0
+
+Move: y
+
+         +-------+
+         | w r g |      
+         | w w g |      
+         | o b r |      
+ +-------+-------+-------+
+ | b o b | y r g | y r w |
+ | o b o | g o r | w g y |
+ | o b o | g y r | g w y |
+ +-------+-------+-------+
+         | y b w |      
+         | w y g |      
+         | b o b |      
+         +-------+
+         | w y r |      
+         | b r g |      
+         | r y o |      
+         +-------+
+
+Move count: 0
+
+Move: x
+
+         +-------+
+         | y r g |      
+         | g o r |      
+         | g y r |      
+ +-------+-------+-------+
+ | b o o | y b w | g w y |
+ | o b b | w y g | w g r |
+ | b o o | b o b | y y w |
+ +-------+-------+-------+
+         | w y r |      
+         | b r g |      
+         | r y o |      
+         +-------+
+         | w r g |      
+         | w w g |      
+         | o b r |      
+         +-------+
+
+Move count: 0
+
+Move: y
+
+         +-------+
+         | g g y |      
+         | y o r |      
+         | r r g |      
+ +-------+-------+-------+
+ | y b w | g w y | r b o |
+ | w y g | w g r | g w w |
+ | b o b | y y w | g r w |
+ +-------+-------+-------+
+         | r g o |      
+         | y r y |      
+         | w b r |      
+         +-------+
+         | o o b |      
+         | b b o |      
+         | o o b |      
+         +-------+
+
+Move count: 0
+
+Move: x
+
+         +-------+
+         | g w y |      
+         | w g r |      
+         | y y w |      
+ +-------+-------+-------+
+ | w g b | r g o | g g r |
+ | b y o | y r y | r w b |
+ | y w b | w b r | w w o |
+ +-------+-------+-------+
+         | o o b |      
+         | b b o |      
+         | o o b |      
+         +-------+
+         | g g y |      
+         | y o r |      
+         | r r g |      
+         +-------+
+
+Move count: 0
+
+Move: y
+
+         +-------+
+         | y w g |      
+         | y g w |      
+         | w r y |      
+ +-------+-------+-------+
+ | r g o | g g r | g r r |
+ | y r y | r w b | r o y |
+ | w b r | w w o | y g g |
+ +-------+-------+-------+
+         | b o b |      
+         | o b o |      
+         | o b o |      
+         +-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+
+Move count: 0
+
+Move: x
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g r b | o b o | g o r |
+ | r y w | o b o | g y r |
+ +-------+-------+-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | y g w |      
+         | w r y |      
+         +-------+
+
+Move count: 0
+
+Move: d
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g r b | o b o | g o r |
+ | g w y | r y w | o b o |
+ +-------+-------+-------+
+         | b o b |      
+         | g y w |      
+         | w b y |      
+         +-------+
+         | r y g |      
+         | y g w |      
+         | w r y |      
+         +-------+
+
+Move count: 1
+
+Move: d
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g r b | o b o | g o r |
+ | g y r | g w y | r y w |
+ +-------+-------+-------+
+         | w g b |      
+         | b y o |      
+         | y w b |      
+         +-------+
+         | o b o |      
+         | y g w |      
+         | w r y |      
+         +-------+
+
+Move count: 2
+
+Move: d
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g r b | o b o | g o r |
+ | o b o | g y r | g w y |
+ +-------+-------+-------+
+         | y b w |      
+         | w y g |      
+         | b o b |      
+         +-------+
+         | w y r |      
+         | y g w |      
+         | w r y |      
+         +-------+
+
+Move count: 3
+
+Move: d
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g r b | o b o | g o r |
+ | r y w | o b o | g y r |
+ +-------+-------+-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | y g w |      
+         | w r y |      
+         +-------+
+
+Move count: 4
+
+Move: e
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | w g y | g r b | o b o |
+ | r y w | o b o | g y r |
+ +-------+-------+-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | r o g |      
+         | w r y |      
+         +-------+
+
+Move count: 6
+
+Move: e
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | w w o |      
+ +-------+-------+-------+
+ | o y r | b o b | y r g |
+ | g o r | w g y | g r b |
+ | r y w | o b o | g y r |
+ +-------+-------+-------+
+         | b w y |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | o b o |      
+         | w r y |      
+         +-------+
+
+Move count: 8
+
+Move: f'
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | y g g |      
+ +-------+-------+-------+
+ | o y o | b y o | y r g |
+ | g o w | o g b | w r b |
+ | r y w | b w o | b y r |
+ +-------+-------+-------+
+         | r r w |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | o b o |      
+         | w r y |      
+         +-------+
+
+Move count: 9
+
+Move: df->uf'
+
+         +-------+
+         | g g r |      
+         | r w b |      
+         | b w g |      
+ +-------+-------+-------+
+ | o y w | r r o | y r g |
+ | g o g | y g b | y r b |
+ | r y y | b o w | r b o |
+ +-------+-------+-------+
+         | o w g |      
+         | o y o |      
+         | b g w |      
+         +-------+
+         | y w b |      
+         | o b w |      
+         | w r y |      
+         +-------+
+
+Move count: 13
+
+Move: y
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | g b r |      
+ +-------+-------+-------+
+ | r r o | y r g | y r w |
+ | y g b | y r b | w b o |
+ | b o w | r b o | b w y |
+ +-------+-------+-------+
+         | g o w |      
+         | w y g |      
+         | o o b |      
+         +-------+
+         | y y r |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 13
+
+Move: d
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | g b r |      
+ +-------+-------+-------+
+ | r r o | y r g | y r w |
+ | y g b | y r b | w b o |
+ | r y y | b o w | r b o |
+ +-------+-------+-------+
+         | o w g |      
+         | o y o |      
+         | b g w |      
+         +-------+
+         | y w b |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 14
+
+Move: d
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | g b r |      
+ +-------+-------+-------+
+ | r r o | y r g | y r w |
+ | y g b | y r b | w b o |
+ | b w y | r y y | b o w |
+ +-------+-------+-------+
+         | b o o |      
+         | g y w |      
+         | w o g |      
+         +-------+
+         | o b r |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 15
+
+Move: d
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | g b r |      
+ +-------+-------+-------+
+ | r r o | y r g | y r w |
+ | y g b | y r b | w b o |
+ | r b o | b w y | r y y |
+ +-------+-------+-------+
+         | w g b |      
+         | o y o |      
+         | g w o |      
+         +-------+
+         | w o b |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 16
+
+Move: d
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | g b r |      
+ +-------+-------+-------+
+ | r r o | y r g | y r w |
+ | y g b | y r b | w b o |
+ | b o w | r b o | b w y |
+ +-------+-------+-------+
+         | g o w |      
+         | w y g |      
+         | o o b |      
+         +-------+
+         | y y r |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 17
+
+Move: f
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | w b o |      
+ +-------+-------+-------+
+ | r r g | r y y | g r w |
+ | y g o | b r r | b b o |
+ | b o w | o b g | r w y |
+ +-------+-------+-------+
+         | b w y |      
+         | w y g |      
+         | o o b |      
+         +-------+
+         | y y r |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 18
+
+Move: f2
+
+         +-------+
+         | b r g |      
+         | w w g |      
+         | y w b |      
+ +-------+-------+-------+
+ | r r r | g b o | w r w |
+ | y g b | r r b | o b o |
+ | b o g | y y r | g w y |
+ +-------+-------+-------+
+         | o b w |      
+         | w y g |      
+         | o o b |      
+         +-------+
+         | y y r |      
+         | g o g |      
+         | w y o |      
+         +-------+
+
+Move count: 20
+
+Move: y
+
+         +-------+
+         | y w b |      
+         | w w r |      
+         | b g g |      
+ +-------+-------+-------+
+ | g b o | w r w | o y w |
+ | r r b | o b o | g o g |
+ | y y r | g w y | r y y |
+ +-------+-------+-------+
+         | w g b |      
+         | b y o |      
+         | o w o |      
+         +-------+
+         | g o b |      
+         | b g y |      
+         | r r r |      
+         +-------+
+
+Move count: 20
+
+Move: d
+
+         +-------+
+         | y w b |      
+         | w w r |      
+         | b g g |      
+ +-------+-------+-------+
+ | g b o | w r w | o y w |
+ | r r b | o b o | g o g |
+ | b o g | y y r | g w y |
+ +-------+-------+-------+
+         | o b w |      
+         | w y g |      
+         | o o b |      
+         +-------+
+         | y y r |      
+         | b g y |      
+         | r r r |      
+         +-------+
+
+Move count: 21
+
+Move: d
+
+         +-------+
+         | y w b |      
+         | w w r |      
+         | b g g |      
+ +-------+-------+-------+
+ | g b o | w r w | o y w |
+ | r r b | o b o | g o g |
+ | r y y | b o g | y y r |
+ +-------+-------+-------+
+         | o w o |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | b g y |      
+         | r r r |      
+         +-------+
+
+Move count: 22
+
+Move: f2
+
+         +-------+
+         | y w b |      
+         | w w r |      
+         | o w o |      
+ +-------+-------+-------+
+ | g b y | g o b | y y w |
+ | r r g | o b o | b o g |
+ | r y o | w r w | o y r |
+ +-------+-------+-------+
+         | g g b |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | b g y |      
+         | r r r |      
+         +-------+
+
+Move count: 24
+
+Move: y
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | o r b |      
+ +-------+-------+-------+
+ | g o b | y y w | r r r |
+ | o b o | b o g | y g b |
+ | w r w | o y r | g w y |
+ +-------+-------+-------+
+         | b b w |      
+         | g y g |      
+         | g o b |      
+         +-------+
+         | o y r |      
+         | g r r |      
+         | y b g |      
+         +-------+
+
+Move count: 24
+
+Move: d
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | o r b |      
+ +-------+-------+-------+
+ | g o b | y y w | r r r |
+ | o b o | b o g | y g b |
+ | r y o | w r w | o y r |
+ +-------+-------+-------+
+         | g g b |      
+         | o y b |      
+         | b g w |      
+         +-------+
+         | y w g |      
+         | g r r |      
+         | y b g |      
+         +-------+
+
+Move count: 25
+
+Move: d
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | o r b |      
+ +-------+-------+-------+
+ | g o b | y y w | r r r |
+ | o b o | b o g | y g b |
+ | g w y | r y o | w r w |
+ +-------+-------+-------+
+         | b o g |      
+         | g y g |      
+         | w b b |      
+         +-------+
+         | r y o |      
+         | g r r |      
+         | y b g |      
+         +-------+
+
+Move count: 26
+
+Move: d
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | o r b |      
+ +-------+-------+-------+
+ | g o b | y y w | r r r |
+ | o b o | b o g | y g b |
+ | o y r | g w y | r y o |
+ +-------+-------+-------+
+         | w g b |      
+         | b y o |      
+         | b g g |      
+         +-------+
+         | w r w |      
+         | g r r |      
+         | y b g |      
+         +-------+
+
+Move count: 27
+
+Move: df->uf'
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | g w b |      
+ +-------+-------+-------+
+ | g o r | w g w | r r r |
+ | o b r | y o o | y g g |
+ | o y o | y b g | o b y |
+ +-------+-------+-------+
+         | b o w |      
+         | b y r |      
+         | b g b |      
+         +-------+
+         | w r r |      
+         | g r y |      
+         | y b g |      
+         +-------+
+
+Move count: 31
+
+Move: y
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | b w y |      
+ +-------+-------+-------+
+ | w g w | r r r | g b y |
+ | y o o | y g g | y r g |
+ | y b g | o b y | r r w |
+ +-------+-------+-------+
+         | w r b |      
+         | o y g |      
+         | b b b |      
+         +-------+
+         | o y o |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 31
+
+Move: d
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | b w y |      
+ +-------+-------+-------+
+ | w g w | r r r | g b y |
+ | y o o | y g g | y r g |
+ | o y o | y b g | o b y |
+ +-------+-------+-------+
+         | b o w |      
+         | b y r |      
+         | b g b |      
+         +-------+
+         | w r r |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 32
+
+Move: d
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | b w y |      
+ +-------+-------+-------+
+ | w g w | r r r | g b y |
+ | y o o | y g g | y r g |
+ | r r w | o y o | y b g |
+ +-------+-------+-------+
+         | b b b |      
+         | g y o |      
+         | b r w |      
+         +-------+
+         | y b o |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 33
+
+Move: d
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | b w y |      
+ +-------+-------+-------+
+ | w g w | r r r | g b y |
+ | y o o | y g g | y r g |
+ | o b y | r r w | o y o |
+ +-------+-------+-------+
+         | b g b |      
+         | r y b |      
+         | w o b |      
+         +-------+
+         | g b y |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 34
+
+Move: d
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | b w y |      
+ +-------+-------+-------+
+ | w g w | r r r | g b y |
+ | y o o | y g g | y r g |
+ | y b g | o b y | r r w |
+ +-------+-------+-------+
+         | w r b |      
+         | o y g |      
+         | b b b |      
+         +-------+
+         | o y o |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 35
+
+Move: u
+
+         +-------+
+         | b w g |      
+         | w w w |      
+         | y w o |      
+ +-------+-------+-------+
+ | r r r | g b y | g o r |
+ | y o o | y g g | y r g |
+ | y b g | o b y | r r w |
+ +-------+-------+-------+
+         | w r b |      
+         | o y g |      
+         | b b b |      
+         +-------+
+         | o y o |      
+         | r b o |      
+         | w g w |      
+         +-------+
+
+Move count: 36
+
+Move: u
+
+         +-------+
+         | y w b |      
+         | w w w |      
+         | o w g |      
+ +-------+-------+-------+
+ | g b y | g o r | w g w |
+ | y o o | y g g | y r g |
+ | y b g | o b y | r r w |
+ +-------+-------+-------+
+         | w r b |      
+         | o y g |      
+         | b b b |      
+         +-------+
+         | o y o |      
+         | r b o |      
+         | r r r |      
+         +-------+
+
+Move count: 37
+
+Move: u
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | g w b |      
+ +-------+-------+-------+
+ | g o r | w g w | r r r |
+ | y o o | y g g | y r g |
+ | y b g | o b y | r r w |
+ +-------+-------+-------+
+         | w r b |      
+         | o y g |      
+         | b b b |      
+         +-------+
+         | o y o |      
+         | r b o |      
+         | y b g |      
+         +-------+
+
+Move count: 38
+
+Move: ufr->dfr
+
+         +-------+
+         | o w y |      
+         | w w w |      
+         | g w r |      
+ +-------+-------+-------+
+ | g o r | w g y | b r r |
+ | y o o | y g b | y r g |
+ | o b g | o b b | r y b |
+ +-------+-------+-------+
+         | w r w |      
+         | o y g |      
+         | b g y |      
+         +-------+
+         | w r o |      
+         | r b o |      
+         | y b g |      
+         +-------+
+
+Move count: 42
+
+Move: u'
+
+         +-------+
+         | y w r |      
+         | w w w |      
+         | o w g |      
+ +-------+-------+-------+
+ | g b y | g o r | w g y |
+ | y o o | y g b | y r g |
+ | o b g | o b b | r y b |
+ +-------+-------+-------+
+         | w r w |      
+         | o y g |      
+         | b g y |      
+         +-------+
+         | w r o |      
+         | r b o |      
+         | r r b |      
+         +-------+
+
+Move count: 43
+
+Move: u'
+
+         +-------+
+         | r w g |      
+         | w w w |      
+         | y w o |      
+ +-------+-------+-------+
+ | b r r | g b y | g o r |
+ | y o o | y g b | y r g |
+ | o b g | o b b | r y b |
+ +-------+-------+-------+
+         | w r w |      
+         | o y g |      
+         | b g y |      
+         +-------+
+         | w r o |      
+         | r b o |      
+         | y g w |      
+         +-------+
+
+Move count: 44
+
+Move: u'
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | r w y |      
+ +-------+-------+-------+
+ | w g y | b r r | g b y |
+ | y o o | y g b | y r g |
+ | o b g | o b b | r y b |
+ +-------+-------+-------+
+         | w r w |      
+         | o y g |      
+         | b g y |      
+         +-------+
+         | w r o |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 45
+
+Move: dfr->ufr
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | r w b |      
+ +-------+-------+-------+
+ | w g y | b r w | r b y |
+ | y o o | y g b | o r g |
+ | o r g | o b o | b b r |
+ +-------+-------+-------+
+         | w r w |      
+         | g y y |      
+         | y g g |      
+         +-------+
+         | b y y |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 48
+
+Move: ufr
+
+         +-------+
+         | g w o |      
+         | w w w |      
+         | r w w |      
+ +-------+-------+-------+
+ | w g y | b r r | b b y |
+ | y o o | y g b | r r g |
+ | y y o | y b o | w r w |
+ +-------+-------+-------+
+         | b o g |      
+         | g y g |      
+         | g y b |      
+         +-------+
+         | r b o |      
+         | r b o |      
+         | r o g |      
+         +-------+
+
+Move count: 55
+
+Move: y
+
+         +-------+
+         | r w g |      
+         | w w w |      
+         | w w o |      
+ +-------+-------+-------+
+ | b r r | b b y | g o r |
+ | y g b | r r g | o b r |
+ | y b o | w r w | o b r |
+ +-------+-------+-------+
+         | g g b |      
+         | o y y |      
+         | b g g |      
+         +-------+
+         | o y y |      
+         | o o y |      
+         | y g w |      
+         +-------+
+
+Move count: 55
+
+Move: dfr->ufr
+
+         +-------+
+         | r w g |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b r r | b b b | o o r |
+ | y g b | r r b | o b r |
+ | y y o | w r y | b g y |
+ +-------+-------+-------+
+         | g g o |      
+         | g y o |      
+         | g y g |      
+         +-------+
+         | r b o |      
+         | o o y |      
+         | y g w |      
+         +-------+
+
+Move count: 58
+
+Move: y
+
+         +-------+
+         | w w r |      
+         | w w w |      
+         | w w g |      
+ +-------+-------+-------+
+ | b b b | o o r | w g y |
+ | r r b | o b r | y o o |
+ | w r y | b g y | o b r |
+ +-------+-------+-------+
+         | o o g |      
+         | g y y |      
+         | g g g |      
+         +-------+
+         | o y y |      
+         | b g y |      
+         | r r b |      
+         +-------+
+
+Move count: 58
+
+Move: d
+
+         +-------+
+         | w w r |      
+         | w w w |      
+         | w w g |      
+ +-------+-------+-------+
+ | b b b | o o r | w g y |
+ | r r b | o b r | y o o |
+ | y y o | w r y | b g y |
+ +-------+-------+-------+
+         | g g o |      
+         | g y o |      
+         | g y g |      
+         +-------+
+         | r b o |      
+         | b g y |      
+         | r r b |      
+         +-------+
+
+Move count: 59
+
+Move: d
+
+         +-------+
+         | w w r |      
+         | w w w |      
+         | w w g |      
+ +-------+-------+-------+
+ | b b b | o o r | w g y |
+ | r r b | o b r | y o o |
+ | o b r | y y o | w r y |
+ +-------+-------+-------+
+         | g g g |      
+         | y y g |      
+         | g o o |      
+         +-------+
+         | y g b |      
+         | b g y |      
+         | r r b |      
+         +-------+
+
+Move count: 60
+
+Move: dfr->ufr
+
+         +-------+
+         | w w r |      
+         | w w w |      
+         | w w o |      
+ +-------+-------+-------+
+ | b b b | o o g | w g y |
+ | r r b | o b b | y o o |
+ | b g r | y y o | g r r |
+ +-------+-------+-------+
+         | g g y |      
+         | o y y |      
+         | o g w |      
+         +-------+
+         | y r g |      
+         | b g y |      
+         | r r b |      
+         +-------+
+
+Move count: 63
+
+Move: ufr
+
+         +-------+
+         | w w r |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b b b | o o o | g g y |
+ | r r b | o b y | r o o |
+ | y y g | y r w | r y o |
+ +-------+-------+-------+
+         | o g g |      
+         | g y b |      
+         | g o b |      
+         +-------+
+         | r g y |      
+         | b g y |      
+         | r r b |      
+         +-------+
+
+Move count: 70
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w r |      
+ +-------+-------+-------+
+ | o o o | g g y | b r r |
+ | o b y | r o o | y g b |
+ | y r w | r y o | y g r |
+ +-------+-------+-------+
+         | g b b |      
+         | g y o |      
+         | o g g |      
+         +-------+
+         | g y y |      
+         | b r r |      
+         | b b b |      
+         +-------+
+
+Move count: 70
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w r |      
+ +-------+-------+-------+
+ | o o o | g g y | b r r |
+ | o b y | r o o | y g b |
+ | y y g | y r w | r y o |
+ +-------+-------+-------+
+         | o g g |      
+         | g y b |      
+         | g o b |      
+         +-------+
+         | r g y |      
+         | b r r |      
+         | b b b |      
+         +-------+
+
+Move count: 71
+
+Move: dfr->ufr
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | o o o | g g g | r r r |
+ | o b y | r o y | g g b |
+ | y g g | y r y | g o y |
+ +-------+-------+-------+
+         | o g r |      
+         | o y y |      
+         | b b b |      
+         +-------+
+         | o y r |      
+         | b r r |      
+         | b b b |      
+         +-------+
+
+Move count: 74
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | r o y | g g b | r r b |
+ | y r y | g o y | r y o |
+ +-------+-------+-------+
+         | r y b |      
+         | g y b |      
+         | o o b |      
+         +-------+
+         | g g y |      
+         | y b o |      
+         | o o o |      
+         +-------+
+
+Move count: 74
+
+Move: u
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | r r r | b b b | o o o |
+ | r o y | g g b | r r b |
+ | y r y | g o y | r y o |
+ +-------+-------+-------+
+         | r y b |      
+         | g y b |      
+         | o o b |      
+         +-------+
+         | g g y |      
+         | y b o |      
+         | g g g |      
+         +-------+
+
+Move count: 75
+
+Move: u
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b b b | o o o | g g g |
+ | r o y | g g b | r r b |
+ | y r y | g o y | r y o |
+ +-------+-------+-------+
+         | r y b |      
+         | g y b |      
+         | o o b |      
+         +-------+
+         | g g y |      
+         | y b o |      
+         | r r r |      
+         +-------+
+
+Move count: 76
+
+Move: u
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | o o o | g g g | r r r |
+ | r o y | g g b | r r b |
+ | y r y | g o y | r y o |
+ +-------+-------+-------+
+         | r y b |      
+         | g y b |      
+         | o o b |      
+         +-------+
+         | g g y |      
+         | y b o |      
+         | b b b |      
+         +-------+
+
+Move count: 77
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g b | r r b | o b y |
+ | g o y | r y o | y g g |
+ +-------+-------+-------+
+         | b b b |      
+         | y y o |      
+         | r g o |      
+         +-------+
+         | y r y |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 77
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g b | r r b | o b y |
+ | y r y | g o y | r y o |
+ +-------+-------+-------+
+         | r y b |      
+         | g y b |      
+         | o o b |      
+         +-------+
+         | g g y |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 78
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g b | r r b | o b y |
+ | y g g | y r y | g o y |
+ +-------+-------+-------+
+         | o g r |      
+         | o y y |      
+         | b b b |      
+         +-------+
+         | o y r |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 79
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g b | r r b | o b y |
+ | r y o | y g g | y r y |
+ +-------+-------+-------+
+         | b o o |      
+         | b y g |      
+         | b y r |      
+         +-------+
+         | y o g |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 80
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g b | r r b | o b y |
+ | g o y | r y o | y g g |
+ +-------+-------+-------+
+         | b b b |      
+         | y y o |      
+         | r g o |      
+         +-------+
+         | y r y |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 81
+
+Move: e
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | r o y | g g b | r r b |
+ | g o y | r y o | y g g |
+ +-------+-------+-------+
+         | b b b |      
+         | y y o |      
+         | r g o |      
+         +-------+
+         | y r y |      
+         | y b o |      
+         | o o o |      
+         +-------+
+
+Move count: 83
+
+Move: r' d r d f d' f' d2
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | r o y | g g o | y r b |
+ | r g g | y r r | y b y |
+ +-------+-------+-------+
+         | o b g |      
+         | o y y |      
+         | b g o |      
+         +-------+
+         | y r b |      
+         | y b o |      
+         | o o o |      
+         +-------+
+
+Move count: 92
+
+Move: e'
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g o | y r b | o b y |
+ | r g g | y r r | y b y |
+ +-------+-------+-------+
+         | o b g |      
+         | o y y |      
+         | b g o |      
+         +-------+
+         | y r b |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 94
+
+Move: d' r' d r d f d' f'
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g o | y r r | b b y |
+ | g y b | o g r | y r y |
+ +-------+-------+-------+
+         | y o g |      
+         | b y g |      
+         | y b b |      
+         +-------+
+         | o o r |      
+         | y o r |      
+         | o o o |      
+         +-------+
+
+Move count: 102
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | r r r | b b b | o o o |
+ | y r r | b b y | r o y |
+ | o g r | y r y | r o o |
+ +-------+-------+-------+
+         | g g b |      
+         | o y b |      
+         | y b y |      
+         +-------+
+         | b y g |      
+         | o g g |      
+         | g g g |      
+         +-------+
+
+Move count: 102
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | r r r | b b b | o o o |
+ | y r r | b b y | r o y |
+ | g y b | o g r | y r y |
+ +-------+-------+-------+
+         | y o g |      
+         | b y g |      
+         | y b b |      
+         +-------+
+         | o o r |      
+         | o g g |      
+         | g g g |      
+         +-------+
+
+Move count: 103
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | r r r | b b b | o o o |
+ | y r r | b b y | r o y |
+ | r o o | g y b | o g r |
+ +-------+-------+-------+
+         | y b y |      
+         | b y o |      
+         | b g g |      
+         +-------+
+         | y r y |      
+         | o g g |      
+         | g g g |      
+         +-------+
+
+Move count: 104
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | r r r | b b b | o o o |
+ | y r r | b b y | r o y |
+ | y r y | r o o | g y b |
+ +-------+-------+-------+
+         | b b y |      
+         | g y b |      
+         | g o y |      
+         +-------+
+         | r g o |      
+         | o g g |      
+         | g g g |      
+         +-------+
+
+Move count: 105
+
+Move: r' d r d f d' f' r' d r d f d' f'
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | r r r | b b b | o o o |
+ | y r r | b b b | o o y |
+ | g o r | b r g | y y b |
+ +-------+-------+-------+
+         | y y o |      
+         | g y b |      
+         | r r y |      
+         +-------+
+         | y g o |      
+         | o g g |      
+         | g g g |      
+         +-------+
+
+Move count: 119
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b b b | o o o | g g g |
+ | b b b | o o y | g g o |
+ | b r g | y y b | o g y |
+ +-------+-------+-------+
+         | o b y |      
+         | y y r |      
+         | y g r |      
+         +-------+
+         | r o g |      
+         | r r y |      
+         | r r r |      
+         +-------+
+
+Move count: 119
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b b b | o o o | g g g |
+ | b b b | o o y | g g o |
+ | g o r | b r g | y y b |
+ +-------+-------+-------+
+         | y y o |      
+         | g y b |      
+         | r r y |      
+         +-------+
+         | y g o |      
+         | r r y |      
+         | r r r |      
+         +-------+
+
+Move count: 120
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b b b | o o o | g g g |
+ | b b b | o o y | g g o |
+ | o g y | g o r | b r g |
+ +-------+-------+-------+
+         | r g y |      
+         | r y y |      
+         | y b o |      
+         +-------+
+         | b y y |      
+         | r r y |      
+         | r r r |      
+         +-------+
+
+Move count: 121
+
+Move: d' r' d r d f d' f'
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | b b b | o o o | g g g |
+ | b b b | o o o | g g o |
+ | y y y | o g r | b y b |
+ +-------+-------+-------+
+         | g r y |      
+         | r y b |      
+         | g y y |      
+         +-------+
+         | r g o |      
+         | r r y |      
+         | r r r |      
+         +-------+
+
+Move count: 129
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | o o o | g g g | r r r |
+ | o o o | g g o | y r r |
+ | o g r | b y b | o g r |
+ +-------+-------+-------+
+         | y b y |      
+         | r y y |      
+         | g r g |      
+         +-------+
+         | y y y |      
+         | b b b |      
+         | b b b |      
+         +-------+
+
+Move count: 129
+
+Move: d
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | o o o | g g g | r r r |
+ | o o o | g g o | y r r |
+ | y y y | o g r | b y b |
+ +-------+-------+-------+
+         | g r y |      
+         | r y b |      
+         | g y y |      
+         +-------+
+         | r g o |      
+         | b b b |      
+         | b b b |      
+         +-------+
+
+Move count: 130
+
+Move: d' r' d r d f d' f'
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | o o o | g g g | r r r |
+ | o o o | g g g | r r r |
+ | y b o | y y r | b g r |
+ +-------+-------+-------+
+         | b r y |      
+         | y y y |      
+         | o o g |      
+         +-------+
+         | g y y |      
+         | b b b |      
+         | b b b |      
+         +-------+
+
+Move count: 138
+
+Move: y
+
+         +-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+ +-------+-------+-------+
+ | g g g | r r r | b b b |
+ | g g g | r r r | b b b |
+ | y y r | b g r | y y g |
+ +-------+-------+-------+
+         | y y g |      
+         | r y o |      
+         | b y o |      
+         +-------+
+         | o b y |      
+         | o o o |      
+         | o o o |      
+         +-------+
+
+Move count: 138
+
+Move: x2
+
+         +-------+
+         | y y g |      
+         | r y o |      
+         | b y o |      
+ +-------+-------+-------+
+ | r y y | o b y | g y y |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | b g r |      
+         +-------+
+
+Move count: 138
+
+Move: u
+
+         +-------+
+         | b r y |      
+         | y y y |      
+         | o o g |      
+ +-------+-------+-------+
+ | o b y | g y y | r g b |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | y y r |      
+         +-------+
+
+Move count: 139
+
+Move: fru
+
+         +-------+
+         | y y o |      
+         | y y y |      
+         | g y y |      
+ +-------+-------+-------+
+ | r b y | r r g | o o b |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | b g y |      
+         +-------+
+
+Move count: 145
+
+Move: u
+
+         +-------+
+         | g y y |      
+         | y y y |      
+         | y y o |      
+ +-------+-------+-------+
+ | r r g | o o b | y g b |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | y b r |      
+         +-------+
+
+Move count: 146
+
+Move: u
+
+         +-------+
+         | y y g |      
+         | y y y |      
+         | o y y |      
+ +-------+-------+-------+
+ | o o b | y g b | r b y |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | g r r |      
+         +-------+
+
+Move count: 147
+
+Move: u
+
+         +-------+
+         | o y y |      
+         | y y y |      
+         | y y g |      
+ +-------+-------+-------+
+ | y g b | r b y | r r g |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | b o o |      
+         +-------+
+
+Move count: 148
+
+Move: u
+
+         +-------+
+         | y y o |      
+         | y y y |      
+         | g y y |      
+ +-------+-------+-------+
+ | r b y | r r g | o o b |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | b g y |      
+         +-------+
+
+Move count: 149
+
+Move: u
+
+         +-------+
+         | g y y |      
+         | y y y |      
+         | y y o |      
+ +-------+-------+-------+
+ | r r g | o o b | y g b |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | y b r |      
+         +-------+
+
+Move count: 150
+
+Move: y2
+
+         +-------+
+         | o y y |      
+         | y y y |      
+         | y y g |      
+ +-------+-------+-------+
+ | y g b | r b y | r r g |
+ | b b b | r r r | g g g |
+ | b b b | r r r | g g g |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | o o o |      
+         | o o o |      
+         | b o o |      
+         +-------+
+
+Move count: 150
+
+Move: ep
+
+         +-------+
+         | g y y |      
+         | y y y |      
+         | b y y |      
+ +-------+-------+-------+
+ | y b y | o g b | r r r |
+ | b b b | r r r | g g g |
+ | b b b | r r r | g g g |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | o o o |      
+         | o o o |      
+         | o o g |      
+         +-------+
+
+Move count: 159
+
+Move: y
+
+         +-------+
+         | b y g |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | o g b | r r r | g o o |
+ | r r r | g g g | o o o |
+ | r r r | g g g | o o o |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | b b b |      
+         | b b b |      
+         | y b y |      
+         +-------+
+
+Move count: 159
+
+Move: ep
+
+         +-------+
+         | o y r |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | g r o | b g b | r o g |
+ | r r r | g g g | o o o |
+ | r r r | g g g | o o o |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | b b b |      
+         | b b b |      
+         | y b y |      
+         +-------+
+
+Move count: 168
+
+Move: y
+
+         +-------+
+         | y y o |      
+         | y y y |      
+         | y y r |      
+ +-------+-------+-------+
+ | b g b | r o g | y b y |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | o r g |      
+         +-------+
+
+Move count: 168
+
+Move: y
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | r y o |      
+ +-------+-------+-------+
+ | r o g | y b y | g r o |
+ | o o o | b b b | r r r |
+ | o o o | b b b | r r r |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | g g g |      
+         | g g g |      
+         | b g b |      
+         +-------+
+
+Move count: 168
+
+Move: y
+
+         +-------+
+         | r y y |      
+         | y y y |      
+         | o y y |      
+ +-------+-------+-------+
+ | y b y | g r o | b g b |
+ | b b b | r r r | g g g |
+ | b b b | r r r | g g g |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | o o o |      
+         | o o o |      
+         | g o r |      
+         +-------+
+
+Move count: 168
+
+Move: y
+
+         +-------+
+         | o y r |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | g r o | b g b | r o g |
+ | r r r | g g g | o o o |
+ | r r r | g g g | o o o |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | b b b |      
+         | b b b |      
+         | y b y |      
+         +-------+
+
+Move count: 168
+
+Move: r  u' l' u r' u' l u
+
+         +-------+
+         | g y b |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | r r o | b g g | o o r |
+ | r r r | g g g | o o o |
+ | r r r | g g g | o o o |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | b b b |      
+         | b b b |      
+         | y b y |      
+         +-------+
+
+Move count: 176
+
+Move: y
+
+         +-------+
+         | y y g |      
+         | y y y |      
+         | y y b |      
+ +-------+-------+-------+
+ | b g g | o o r | y b y |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | o r r |      
+         +-------+
+
+Move count: 176
+
+Move: r  u' l' u r' u' l u
+
+         +-------+
+         | y y r |      
+         | y y y |      
+         | y y o |      
+ +-------+-------+-------+
+ | g g g | o o b | y b y |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | r r b |      
+         +-------+
+
+Move count: 184
+
+Move: r' d' r d
+
+         +-------+
+         | y y r |      
+         | y y y |      
+         | y y b |      
+ +-------+-------+-------+
+ | g g g | o o o | w b y |
+ | g g g | o o w | r b b |
+ | r g g | o o o | y b w |
+ +-------+-------+-------+
+         | w w b |      
+         | w w o |      
+         | w w g |      
+         +-------+
+         | b b r |      
+         | r r r |      
+         | r r b |      
+         +-------+
+
+Move count: 188
+
+Move: r' d' r d
+
+         +-------+
+         | y y r |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | g g g | o o o | b b y |
+ | g g g | o o w | b b b |
+ | r g g | o o b | w r w |
+ +-------+-------+-------+
+         | w w o |      
+         | w w w |      
+         | g o r |      
+         +-------+
+         | w b b |      
+         | r r r |      
+         | r r b |      
+         +-------+
+
+Move count: 192
+
+Move: u
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y r |      
+ +-------+-------+-------+
+ | o o o | b b y | b r r |
+ | g g g | o o w | b b b |
+ | r g g | o o b | w r w |
+ +-------+-------+-------+
+         | w w o |      
+         | w w w |      
+         | g o r |      
+         +-------+
+         | w b b |      
+         | r r r |      
+         | g g g |      
+         +-------+
+
+Move count: 193
+
+Move: r' d' r d
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y w |      
+ +-------+-------+-------+
+ | o o o | b b b | o r r |
+ | g g g | o o o | b b b |
+ | b g g | o o r | b b g |
+ +-------+-------+-------+
+         | w w y |      
+         | w w w |      
+         | r w r |      
+         +-------+
+         | w r w |      
+         | r r r |      
+         | g g g |      
+         +-------+
+
+Move count: 197
+
+Move: r' d' r d
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y b |      
+ +-------+-------+-------+
+ | o o o | b b r | y r r |
+ | g g g | o o w | r b b |
+ | w g g | o o w | o b r |
+ +-------+-------+-------+
+         | w w b |      
+         | w w o |      
+         | r w b |      
+         +-------+
+         | g b w |      
+         | r r r |      
+         | g g g |      
+         +-------+
+
+Move count: 201
+
+Move: r' d' r d
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y o |      
+ +-------+-------+-------+
+ | o o o | b b w | b r r |
+ | g g g | o o w | b b b |
+ | w g g | o o b | y r r |
+ +-------+-------+-------+
+         | w w r |      
+         | w w w |      
+         | b o w |      
+         +-------+
+         | r b g |      
+         | r r r |      
+         | g g g |      
+         +-------+
+
+Move count: 205
+
+Move: r' d' r d
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | o o o | b b b | r r r |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | g g g |      
+         +-------+
+
+Move count: 209
+
+Move: u
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | b b b | r r r | g g g |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | o o o |      
+         +-------+
+
+Move count: 210
+
+Move: u
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | r r r | g g g | o o o |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | b b b |      
+         +-------+
+
+Move count: 211
+
+Move: u
+
+         +-------+
+         | y y y |      
+         | y y y |      
+         | y y y |      
+ +-------+-------+-------+
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ | g g g | o o o | b b b |
+ +-------+-------+-------+
+         | w w w |      
+         | w w w |      
+         | w w w |      
+         +-------+
+         | r r r |      
+         | r r r |      
+         | r r r |      
+         +-------+
+
+Move count: 212
+
+SOLVED in 212 moves!
